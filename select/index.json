@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "想いきり",
+  "base_artist": "indigo la End",
+  "createdAt": "2025-12-09T05:19:29.828608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "想いきり",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/01_想いきり_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "想いきり [Wholeheartedly]",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/02_想いきり_[Wholeheartedly]_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "想いきり - omoikiri",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/03_想いきり_-_omoikiri_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "想いきり",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_想いきり_indigo_la_End.txt"
+    }
+  ]
+}
